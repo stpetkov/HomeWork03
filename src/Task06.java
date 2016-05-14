@@ -24,9 +24,9 @@ public class Task06 {
 			 break;
 		default:
 	    	 System.out.println("Wrong points,brah !");
-		 }
-		sc.close();
 		}
+		sc.close();
+		
 
 	}
 
