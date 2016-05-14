@@ -9,10 +9,10 @@ public class Task01 {
 		long divide=number1/number2;
 		if(divide>0)
 		{
-			System.out.println("+");
+			System.out.println(" + ");
 		}
 		else{
-			System.out.println("-");
+			System.out.println(" - ");
 	}
 		sc.close();
 }}
