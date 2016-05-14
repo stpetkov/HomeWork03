@@ -12,7 +12,7 @@ public class Task02 {
 		else if(number1==number2){
 			System.out.println("Equal");
 		}
-		else {
+		else  {
 			System.out.println(number2+" is bigger");
 		}
 
