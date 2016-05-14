@@ -13,7 +13,7 @@ public class Task05 {
 		}else if(a>b+c || b> a+c || c>a+b){
 			System.out.println("These numbers can not be sides of a triangle");		
 		}else{
-			System.out.println("These numbers can  be sides of a triangle");
+			System.out.println("These numbers can be sides of a triangle");
 		}
 		sc.close();
 	}
